@@ -5,7 +5,7 @@ Since the beginning of the movies industry ton of movies have been release so on
 have the same taste of movies as you but you might not find that type of person everyday isn't it this movies recommend system will come and help you 
 
 **Tool use: Jupyter Notebook**  
-**Library use**  
+**Library use:**  
   - pandas
   - numpy
   - ipywidget
