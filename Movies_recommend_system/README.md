@@ -1,8 +1,7 @@
 # Movies Recommend System
 ---
 
-Since the beginning of the movies industry ton of movies have been release so one of the hardest thing for some people is deciding which movie they should watch one of the best way is to get recommended by other people that 
-have the same taste of movies as you but you might not find that type of person everyday isn't it this movies recommend system will come and help you 
+Since the beginning of the movie industry tons of movies have been released, so one of the hardest things for some people is deciding which movie they should watch. One of the best ways is to get recommended by other people who have the same taste in movies as you, but you might not find that type of person every day isn't it?. These movies recommend system will come and help you 
 
 **Tool use: Jupyter Notebook**  
 **Library use:**  
