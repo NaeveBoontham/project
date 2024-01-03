@@ -1,6 +1,5 @@
 # LeBron James Unbreakable Record
-LeBron James is one of the if not the greatest basketball players of all time and one record that he holds now is the most points scored in the regular season of the NBA his record is so absurd that it seems to be unbreakable
-we will see if there is any player in this era that has the potential to break this absolutely unbreakable record
+One of the greatest basketball players of all time, if not the greatest, is LeBron James. He currently holds the record for the most points scored in an NBA regular season. This record is so ridiculous that it appears to be unbreakable. We'll see if any player in this era can break it.
 
 **Tool use: Jupyter Notebook**  
 **Library use:** 
