@@ -1,6 +1,6 @@
 # Project
 
-### [LeBron_James_UnbreakableRecod](LeBron_James_UnbreakableRecod)
+### [LeBron_James_UnbreakableRecod](https://github.com/NaeveBoontham/project/tree/main/LeBron_James_UnbreakableRecord)
 Compare LeBron James(NBA player) scoring record to other player then plot the graph and find that is there will be any player that have a chance to break his record
 
 **Jupyter Notebook**
