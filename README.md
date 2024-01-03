@@ -1,7 +1,7 @@
 # Project
 
 ### [LeBron_James_UnbreakableRecod](https://github.com/NaeveBoontham/project/tree/main/LeBron_James_UnbreakableRecord)
-Compare LeBron James(NBA player) scoring record to other player then plot the graph and find that is there will be any player that have a chance to break his record
+Compare LeBron James (NBA player) scoring record to another player then plot the graph and find that is there will be any player that has a chance to break his record
 
 **Tool use: Jupyter Notebook**
   - pandas
@@ -12,7 +12,7 @@ Compare LeBron James(NBA player) scoring record to other player then plot the gr
 
 ---
 ### [Marvel_Movies_Gross](https://github.com/NaeveBoontham/project/tree/main/Marvel_Movies_Gross)
-Create Dashboard of Marvel movies franchise gross and rating
+Create a Dashboard of the Marvel movie franchise gross and rating
 
 **Tool use: Power Bi**
 
@@ -20,7 +20,7 @@ Create Dashboard of Marvel movies franchise gross and rating
 
 ---
 ### [Movies_recommend_system](https://github.com/NaeveBoontham/project/tree/main/Movies_recommend_system)
-Create movies recommend system that will return 10-20 recommended movies base on the input movie and it genres
+Create a movie recommend system that will return 10-20 recommended movies based on the input movie and its genres
 
 **Tool use: Jupyter Notebook**
   - pandas
