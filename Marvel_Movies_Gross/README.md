@@ -1,7 +1,7 @@
 # Marvel Movies Gross 
 ---
 
-Marvel franchise or people also know as MCU (Marvel Cinematic Universe) is one of the biggest movies franchise the world have ever had they started since 2008 with the movie name Iron Man and the rest is history
+Marvel franchise or people also known as MCU (Marvel Cinematic Universe) is one of the biggest movies franchise the world has ever had they started in 2008 with the movie name Iron Man and the rest is history
 
 **This dashboard will show each movie**
   - Distributor
