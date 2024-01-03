@@ -8,5 +8,7 @@ we will see that if there any player in this era that have potential to break th
   - numpy
   - matplotlib
 
+![preview](https://github.com/NaeveBoontham/project/blob/main/LeBron_James_UnbreakableRecord/LeBron_preview.png)
+
 **Data reference website**
 [basketball-reference](https://www.basketball-reference.com/)
