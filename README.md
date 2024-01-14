@@ -14,7 +14,7 @@ Compare LeBron James (NBA player) scoring record to another player then plot the
 ### [Marvel_Movies_Gross](https://github.com/NaeveBoontham/project/tree/main/Marvel_Movies_Gross)
 Create a Dashboard of the Marvel movie franchise gross and rating
 
-**Tool use: Power Bi**
+**Tool use: Power Bi, Figma**
 
 ![preview_pic_gross](https://github.com/NaeveBoontham/project/blob/main/Marvel_Movies_Gross/Preview.png)
 
