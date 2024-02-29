@@ -36,9 +36,26 @@ Create a movie recommend system that will return 10-20 recommended movies based 
 ![preview_pic_recommend](https://github.com/NaeveBoontham/project/blob/main/Movies_recommend_system/recommend_preview.png)
 
 ---
+### [California Housing Price Prediction](https://github.com/NaeveBoontham/project/tree/main/California_Housing_Price_Prediction)
+Perform feature engineering and create a machine learning model to predict average house price in california
+
+**Tool use: Jupyter Notebook**
+- pandas
+- numpy
+- maplotlib
+- seaborn
+- sklearn
+  - train_test_split
+  - LinearRegression
+  - RandomForestRegressor
+ 
+![California](https://github.com/NaeveBoontham/project/blob/main/California_Housing_Price_Prediction/California_housing.png)
+
+---
 ### [Nashville_DataCleaning](https://github.com/NaeveBoontham/project/tree/main/Nashville_DataCleaing)
 Clean Nashville housing data using SQL and pandas
 
 **Tool use:**  
 **Microsoft SQL Server (SQL)**  
-**Jupyter Notebook (pandas)**
+**Jupyter Notebook (pandas)**  
+
