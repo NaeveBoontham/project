@@ -37,7 +37,7 @@ Create a movie recommend system that will return 10-20 recommended movies based 
 
 ---
 ### [California Housing Price Prediction](https://github.com/NaeveBoontham/project/tree/main/California_Housing_Price_Prediction)
-Perform feature engineering and create a machine learning model to predict average house price in california
+Perform feature engineering and create a machine learning model to predict average housing price in California
 
 **Tool use: Jupyter Notebook**
 - pandas
