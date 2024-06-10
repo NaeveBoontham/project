@@ -1,5 +1,6 @@
 # Credit Card Churning Prediction
-Perform a data cleaning process on several data set and create a feature table do the exploratory data analysis and create a machine learning model to predict the credit card churning of customer
+Perform a data cleaning process on several data set and create a feature table do the exploratory data analysis and create a machine learning model to predict the credit card churning of customer and lastly calculate the
+F2 score for each classification
 
 **Tool use: Jupyter Notebook**  
 **Library use:** 
