@@ -13,4 +13,4 @@ Perform a data cleaning process on several data set and create a feature table d
       - RandomForestClassifier
       - Classification_report
 
-
+![preview_pic](https://github.com/NaeveBoontham/project/blob/main/Credit_card_churning/Credit_card_churning_pic.png)
