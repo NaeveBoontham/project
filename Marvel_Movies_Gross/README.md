@@ -14,8 +14,6 @@ Marvel franchise or people also known as MCU (Marvel Cinematic Universe) is one 
   
 ![Preview](https://github.com/NaeveBoontham/project/blob/main/Marvel_Movies_Gross/Preview.png)
 
-# View Dashboard : [Click here](https://app.powerbi.com/view?r=eyJrIjoiOGUxNzEwNjMtYWZiZi00MGJlLWJmYjQtMDY4NDhhMGI3MTgxIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D)
-
 **Data reference website**
 [Box Office Mojo](https://www.boxofficemojo.com/), 
 [Visual Capitalist](https://www.visualcapitalist.com/charted-marvel-box-office/)
