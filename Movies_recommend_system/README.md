@@ -1,7 +1,7 @@
 # Movies Recommend System
----
 
-Since the beginning of the movie industry tons of movies have been released, so one of the hardest things for some people is deciding which movie they should watch. One of the best ways is to get recommended by other people who have the same taste in movies as you, but you might not find that type of person every day isn't it?. These movies recommend system will come and help you 
+🎬 Choosing what movie to watch can sometimes feel harder than it should be. With thousands of films released over the years, finding something that truly resonates can be overwhelming. One of the best ways to discover great movies is through recommendations from people who share your taste — but we don’t always have that person around.
+That’s where this movie recommendation system comes in. It’s built to help replicate that feeling of a friend saying, “You’re going to love this one.” With a mix of data, user reviews, and natural language processing, it finds titles that match your preferences — not just by genre, but by vibe.
 
 **Tool use: Jupyter Notebook**  
 **Library use:**  
@@ -13,6 +13,10 @@ Since the beginning of the movie industry tons of movies have been released, so 
     - cosine_similarity
   - IPython
     - display
+
+---
+
+**An example input is Django Unchained. Not bad, right? Two of the recommended movies even come from the same director — my GOAT, Quentin Tarantino.**
    
 ![preview](https://github.com/NaeveBoontham/project/blob/main/Movies_recommend_system/recommend_preview.png)
 
