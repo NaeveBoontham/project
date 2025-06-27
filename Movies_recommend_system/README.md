@@ -21,3 +21,9 @@ That’s where this movie recommendation system comes in. It’s built to help r
 ![preview](https://github.com/NaeveBoontham/project/blob/main/Movies_recommend_system/recommend_preview.png)
 
 [Download Excel File](https://drive.google.com/drive/folders/1wQ9l5P-0Bs6n_e1Ut-ufKZqSGAPQ6m7o?usp=drive_link)
+
+---
+
+## Here are more example in the Power BI version
+
+![preview](https://github.com/NaeveBoontham/project/blob/main/Movies_recommend_system/recommend_preview.png)
