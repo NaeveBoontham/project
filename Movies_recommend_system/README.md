@@ -24,7 +24,8 @@ That’s where this movie recommendation system comes in. It’s built to help r
 
 ---
 
-## Here are some more example in the Power BI version
+## Here are some more example in the Power BI version  
+[Download Power BI File](https://github.com/NaeveBoontham/project/blob/63692d39abc4b52fc7fc167d19d57c2231f0fb66/Movies_recommend_system/MovieRecommend.pbix)
 
 ![preview](https://github.com/NaeveBoontham/project/blob/b6ad3daf72f260416843e13192d88cfced4a73f4/Movies_recommend_system/Picture/21Jump.jpg)
 ![preview](https://github.com/NaeveBoontham/project/blob/b6ad3daf72f260416843e13192d88cfced4a73f4/Movies_recommend_system/Picture/3Idiot.jpg)
