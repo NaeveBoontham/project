@@ -32,6 +32,7 @@ Create a movie recommend system that will return 10-20 recommended movies based 
     - cosine_similarity
   - IPython
     - display
+  - Power BI
 
 ![preview_pic_recommend](https://github.com/NaeveBoontham/project/blob/main/Movies_recommend_system/recommend_preview.png)
 
